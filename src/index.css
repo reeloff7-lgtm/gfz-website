@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'MorrisRoman';
+  src: url('/good timing bd.otf') format('opentype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Akira Expanded';
+  src: url('/Akira Expanded.otf') format('opentype');
+  font-weight: normal;
+}
+
+@theme {
+  --font-morris: 'MorrisRoman', serif;
+  --font-Akira: 'Akira Expanded', serif;
+  --font-poppins: 'Poppins', sans-serif;
+}
+
+
+/* CUSTOM SCROLL */
+
+*::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+*::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+*::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+	border: 2px solid #555555;
+}
+
+/* ======================================== */
+
+h1,h2:not(.privacy h1, .privacy h2){
+	@apply font-Akira text-2xl md:text-4xl ;
+}
+
+.privacy h2{
+  @apply font-semibold text-lg pt-5;
+}
+/*
+h1{
+	@apply text-6xl;
+} */
+
+.headLow li{
+    @apply font-bold duration-300 hover:text-black;
+}

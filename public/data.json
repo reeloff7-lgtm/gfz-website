@@ -1,0 +1,1714 @@
+{
+  "games": [
+    {
+      "id": "A Plague Tale: Innocence",
+      "title": "A Plague Tale: Innocence",
+      "in_stock": true,
+      "original_price": 1899,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lat.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "A Plague Tale: Requiem",
+      "title": "A Plague Tale: Requiem",
+      "in_stock": true,
+      "original_price": 2299,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pwb.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "A Quiet Place: The Road Ahead",
+      "title": "A Quiet Place: The Road Ahead",
+      "in_stock": true,
+      "original_price": 1400,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gtp.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Alien: Isolation",
+      "title": "Alien: Isolation",
+      "in_stock": true,
+      "original_price": 3325,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co84mu.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "American Truck Simulator",
+      "title": "American Truck Simulator",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 920,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mw8.webp"
+    },
+    {
+      "id": "Amnesia: Rebirth",
+      "title": "Amnesia: Rebirth",
+      "in_stock": true,
+      "original_price": 1300,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2iuo.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Amnesia: The Bunker",
+      "title": "Amnesia: The Bunker",
+      "in_stock": true,
+      "original_price": 1100,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5us3.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Amnesia: The Dark Descent",
+      "title": "Amnesia: The Dark Descent",
+      "in_stock": true,
+      "original_price": 880,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qq5.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Assetto Corsa",
+      "title": "Assetto Corsa",
+      "in_stock": true,
+      "original_price": 880,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wib.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Back 4 Blood",
+      "title": "Back 4 Blood",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 2999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mhj.webp"
+    },
+    {
+      "id": "Bakery Simulator",
+      "title": "Bakery Simulator",
+      "in_stock": true,
+      "original_price": 730,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2m6m.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "BeamNG.drive",
+      "title": "BeamNG.drive",
+      "in_stock": true,
+      "original_price": 1100,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sym.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Big Ambitions",
+      "title": "Big Ambitions",
+      "in_stock": true,
+      "original_price": 1012,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68xr.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Blasphemous",
+      "title": "Blasphemous",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9yoj.webp"
+    },
+    {
+      "id": "Bus Simulator 18",
+      "title": "Bus Simulator 18",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1100,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28vz.webp"
+    },
+    {
+      "id": "Call of Duty Old OG Series",
+      "title": "Call of Duty Old OG Series",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 0,
+      "price": 399,
+      "image": ""
+    },
+    {
+      "id": "Car Mechanic Simulator 2021",
+      "title": "Car Mechanic Simulator 2021",
+      "in_stock": true,
+      "original_price": 1584,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3acn.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Celeste",
+      "title": "Celeste",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 880,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3byy.webp"
+    },
+    {
+      "id": "Cricket 24",
+      "title": "Cricket 24",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 2999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7plg.webp"
+    },
+    {
+      "id": "Cuphead",
+      "title": "Cuphead",
+      "in_stock": true,
+      "original_price": 565,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65ip.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Cyberpunk 2077",
+      "title": "Cyberpunk 2077",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 2999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7497.webp"
+    },
+    {
+      "id": "Dakar Desert Rally",
+      "title": "Dakar Desert Rally",
+      "in_stock": true,
+      "original_price": 1499,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4s8w.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Dark Souls III",
+      "title": "Dark Souls III",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 4299,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vcf.webp"
+    },
+    {
+      "id": "Darkwood",
+      "title": "Darkwood",
+      "in_stock": true,
+      "original_price": 690,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co24nh.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Days Gone",
+      "title": "Days Gone",
+      "in_stock": true,
+      "original_price": 2499,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94bn.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Dead Cells",
+      "title": "Dead Cells",
+      "in_stock": true,
+      "original_price": 629,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7jfv.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Dead Island: Definitive Edition",
+      "title": "Dead Island: Definitive Edition",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1120,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6o7n.webp"
+    },
+    {
+      "id": "Dead Space 2",
+      "title": "Dead Space 2",
+      "in_stock": true,
+      "original_price": 999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20xq.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Dead Space 3",
+      "title": "Dead Space 3",
+      "in_stock": true,
+      "original_price": 999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2int.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Dead Space Remake",
+      "title": "Dead Space Remake",
+      "in_stock": true,
+      "original_price": 2999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5esn.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Deltarune",
+      "title": "Deltarune",
+      "in_stock": true,
+      "original_price": 1099,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9m71.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Detroit: Become Human",
+      "title": "Detroit: Become Human",
+      "in_stock": true,
+      "original_price": 2398,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6mzf.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Devour",
+      "title": "Devour",
+      "in_stock": true,
+      "original_price": 480,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69f8.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Disco Elysium",
+      "title": "Disco Elysium",
+      "in_stock": true,
+      "original_price": 0,
+      "price": 899,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sfj.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Don't Scream",
+      "title": "Don't Scream",
+      "in_stock": true,
+      "original_price": 690,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co77xl.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Dragon Ball Sparking Zero",
+      "title": "Dragon Ball Sparking Zero",
+      "in_stock": true,
+      "original_price": 3999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bhn.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Dredge",
+      "title": "Dredge",
+      "in_stock": true,
+      "original_price": 1999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9kyk.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Drug Dealer Simulator",
+      "title": "Drug Dealer Simulator",
+      "in_stock": true,
+      "original_price": 529,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sl6.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Dying Light",
+      "title": "Dying Light",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1349,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yq.webp"
+    },
+    {
+      "id": "Dying Light 2",
+      "title": "Dying Light 2",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 2999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yk.webp"
+    },
+    {
+      "id": "Eastward",
+      "title": "Eastward",
+      "in_stock": true,
+      "original_price": 1100,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3tul.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Elden Ring",
+      "title": "Elden Ring",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3599,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.webp"
+    },
+    {
+      "id": "Ender Lilies: Quietus of the Knights",
+      "title": "Ender Lilies: Quietus of the Knights",
+      "in_stock": true,
+      "original_price": 580,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s9e.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Euro Truck Simulator",
+      "title": "Euro Truck Simulator",
+      "in_stock": true,
+      "original_price": 245,
+      "price": 99,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa08n.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Fatal Frame: Maiden of Black Water",
+      "title": "Fatal Frame: Maiden of Black Water",
+      "in_stock": true,
+      "original_price": 899,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zcv.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Fernbus Simulator",
+      "title": "Fernbus Simulator",
+      "in_stock": true,
+      "original_price": 1211,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co77bo.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Firewatch",
+      "title": "Firewatch",
+      "in_stock": true,
+      "original_price": 880,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1m35.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Five Nights at Freddy’s 4",
+      "title": "Five Nights at Freddy’s 4",
+      "in_stock": true,
+      "original_price": 299,
+      "price": 99,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8efh.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Five Nights at Freddy’s: Security Breach",
+      "title": "Five Nights at Freddy’s: Security Breach",
+      "in_stock": true,
+      "original_price": 899,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4aro.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Fling to the Finish",
+      "title": "Fling to the Finish",
+      "in_stock": true,
+      "original_price": 800,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2web.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Forza Horizon 4",
+      "title": "Forza Horizon 4",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 0,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2e1a.webp"
+    },
+    {
+      "id": "Forza Horizon 5",
+      "title": "Forza Horizon 5",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3499,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ofx.webp"
+    },
+    {
+      "id": "Game Dev Tycoon",
+      "title": "Game Dev Tycoon",
+      "in_stock": true,
+      "original_price": 449,
+      "price": 199,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/wkrb3yz3ht4vly5oh1bq.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Gas Station Simulator",
+      "title": "Gas Station Simulator",
+      "in_stock": true,
+      "original_price": 314,
+      "price": 99,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3qix.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Ghost of Tsushima",
+      "title": "Ghost of Tsushima",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2crj.webp"
+    },
+    {
+      "id": "God of War",
+      "title": "God of War",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmu.webp"
+    },
+    {
+      "id": "Grand Theft Auto IV: Complete Edition",
+      "title": "Grand Theft Auto IV: Complete Edition",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1twe.webp"
+    },
+    {
+      "id": "Grand Theft Auto V",
+      "title": "Grand Theft Auto V",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3749,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.webp"
+    },
+    {
+      "id": "Green Hell",
+      "title": "Green Hell",
+      "in_stock": true,
+      "original_price": 700,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9d3h.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Gris",
+      "title": "Gris",
+      "in_stock": true,
+      "original_price": 690,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qv5.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Hades",
+      "title": "Hades",
+      "in_stock": true,
+      "original_price": 1100,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vc.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Hitman: World of Assassination",
+      "title": "Hitman: World of Assassination",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 700,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co620f.webp"
+    },
+    {
+      "id": "Hollow Knight",
+      "title": "Hollow Knight",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 690,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93cr.webp"
+    },
+    {
+      "id": "Horizon Forbidden West",
+      "title": "Horizon Forbidden West",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gvu.webp"
+    },
+    {
+      "id": "House Flipper",
+      "title": "House Flipper",
+      "in_stock": true,
+      "original_price": 1100,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4xdy.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Hyper Light Drifter",
+      "title": "Hyper Light Drifter",
+      "in_stock": true,
+      "original_price": 565,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2edn.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Inside",
+      "title": "Inside",
+      "in_stock": true,
+      "original_price": 880,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2fca.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Katana ZERO",
+      "title": "Katana ZERO",
+      "in_stock": true,
+      "original_price": 690,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1isp.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Lethal Company",
+      "title": "Lethal Company",
+      "in_stock": true,
+      "original_price": 480,
+      "price": 99,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ive.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Limbo",
+      "title": "Limbo",
+      "in_stock": true,
+      "original_price": 480,
+      "price": 99,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrs.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Little Nightmares",
+      "title": "Little Nightmares",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1499,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rdi.webp"
+    },
+    {
+      "id": "Little Nightmares II",
+      "title": "Little Nightmares II",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1499,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa17l.webp"
+    },
+    {
+      "id": "Loop Hero",
+      "title": "Loop Hero",
+      "in_stock": true,
+      "original_price": 690,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mfy.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "MADiSON",
+      "title": "MADiSON",
+      "in_stock": true,
+      "original_price": 899,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3mr1.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "MX Bikes",
+      "title": "MX Bikes",
+      "in_stock": true,
+      "original_price": 1500,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qrb.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Mafia: Definitive Edition",
+      "title": "Mafia: Definitive Edition",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 2199,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26vl.webp"
+    },
+    {
+      "id": "Marvel's Spider-Man 2",
+      "title": "Marvel's Spider-Man 2",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79vq.webp"
+    },
+    {
+      "id": "Marvel's Spider-Man Remastered",
+      "title": "Marvel's Spider-Man Remastered",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 0,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52vm.webp"
+    },
+    {
+      "id": "Marvel's Spider-Man: Miles Morales",
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co52vm.webp"
+    },
+    {
+      "id": "Mortal Kombat 1",
+      "title": "Mortal Kombat 1",
+      "in_stock": true,
+      "original_price": 2799,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9b8f.webp",
+      "category": [
+        "pc",
+        "best-seller"
+      ]
+    },
+    {
+      "id": "Mortal Kombat 10",
+      "title": "Mortal Kombat 10",
+      "in_stock": true,
+      "original_price": 863,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y08.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Mortal Kombat 11",
+      "title": "Mortal Kombat 11",
+      "in_stock": true,
+      "original_price": 2699,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20mh.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "MotoGP 24",
+      "title": "MotoGP 24",
+      "in_stock": true,
+      "original_price": 2999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co80e3.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "My Summer Car",
+      "title": "My Summer Car",
+      "in_stock": true,
+      "original_price": 479,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9aeu.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Need for Speed Most Wanted 2012",
+      "title": "Need for Speed Most Wanted 2012",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20a5.webp"
+    },
+    {
+      "id": "No Man's Sky",
+      "title": "No Man's Sky",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 2400,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8j8v.webp"
+    },
+    {
+      "id": "OMSI 2",
+      "title": "OMSI 2",
+      "in_stock": true,
+      "original_price": 1300,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qvv.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Outlast",
+      "title": "Outlast",
+      "in_stock": true,
+      "original_price": 0,
+      "price": 399,
+      "image": "",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Outlast 2",
+      "title": "Outlast 2",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 690,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yat.webp"
+    },
+    {
+      "id": "Outlast Trials",
+      "title": "Outlast Trials",
+      "in_stock": true,
+      "original_price": 1600,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co29og.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Oxenfree",
+      "title": "Oxenfree",
+      "in_stock": true,
+      "original_price": 480,
+      "price": 99,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hlq.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Oxenfree II: Lost Signals",
+      "title": "Oxenfree II: Lost Signals",
+      "in_stock": true,
+      "original_price": 880,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eks.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Phasmophobia",
+      "title": "Phasmophobia",
+      "in_stock": true,
+      "original_price": 880,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hby.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Poppy Playtime",
+      "title": "Poppy Playtime",
+      "in_stock": true,
+      "original_price": 399,
+      "price": 0,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co90hm.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Raft",
+      "title": "Raft",
+      "in_stock": true,
+      "original_price": 565,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xdc.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Ready or Not",
+      "title": "Ready or Not",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1995,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2m9w.webp"
+    },
+    {
+      "id": "Red Dead Redemption 2",
+      "title": "Red Dead Redemption 2",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 4999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.webp"
+    },
+    {
+      "id": "Resident Evil 2 Remake",
+      "title": "Resident Evil 2 Remake",
+      "in_stock": true,
+      "original_price": 2497,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ir3.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Resident Evil 3 Remake",
+      "title": "Resident Evil 3 Remake",
+      "in_stock": true,
+      "original_price": 2497,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22l7.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Resident Evil 7: Biohazard",
+      "title": "Resident Evil 7: Biohazard",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1099,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8uu1.webp"
+    },
+    {
+      "id": "Resident Evil Village",
+      "title": "Resident Evil Village",
+      "in_stock": true,
+      "original_price": 2497,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zpu.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Ride 4",
+      "title": "Ride 4",
+      "in_stock": true,
+      "original_price": 2499,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27l0.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Ride 5",
+      "title": "Ride 5",
+      "in_stock": true,
+      "original_price": 3499,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6e0o.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Rise of the Tomb Raider",
+      "title": "Rise of the Tomb Raider",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1499,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rqa.webp"
+    },
+    {
+      "id": "Rogue Legacy 2",
+      "title": "Rogue Legacy 2",
+      "in_stock": true,
+      "original_price": 1100,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p51.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "S.T.A.L.K.E.R. 2: Heart of Chernobyl",
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chernobyl",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3299,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pxn.webp"
+    },
+    {
+      "id": "SOMA",
+      "title": "SOMA",
+      "in_stock": true,
+      "original_price": 1300,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a20.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Sekiro: Shadows Die Twice",
+      "title": "Sekiro: Shadows Die Twice",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 4997,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a23.webp"
+    },
+    {
+      "id": "Shadow of the Tomb Raider",
+      "title": "Shadow of the Tomb Raider",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1980,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vcn.webp"
+    },
+    {
+      "id": "Silent Hill 2 Remake",
+      "title": "Silent Hill 2 Remake",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 2800,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5l7s.webp"
+    },
+    {
+      "id": "Silent Hill Homecoming",
+      "title": "Silent Hill Homecoming",
+      "in_stock": true,
+      "original_price": 3999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vyn.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Slay the Spire",
+      "title": "Slay the Spire",
+      "in_stock": true,
+      "original_price": 1100,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1iyf.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Sleeping Dogs: Definitive Edition",
+      "title": "Sleeping Dogs: Definitive Edition",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 729,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2i0n.webp"
+    },
+    {
+      "id": "SnowRunner",
+      "title": "SnowRunner",
+      "in_stock": true,
+      "original_price": 1399,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wk4.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Sons of the Forest",
+      "title": "Sons of the Forest",
+      "in_stock": true,
+      "original_price": 1300,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67g5.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Spiritfarer",
+      "title": "Spiritfarer",
+      "in_stock": true,
+      "original_price": 1300,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2fe7.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Stardew Valley",
+      "title": "Stardew Valley",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 479,
+      "price": 199,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/xrpmydnu9rpxvxfjkiu7.webp"
+    },
+    {
+      "id": "Starfield",
+      "title": "Starfield",
+      "in_stock": true,
+      "original_price": 4999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vv.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Startup Company",
+      "title": "Startup Company",
+      "in_stock": true,
+      "original_price": 610,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nri.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "State of Decay 2: Juggernaut Edition",
+      "title": "State of Decay 2: Juggernaut Edition",
+      "in_stock": true,
+      "original_price": 1099,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2cgx.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Stranded Deep",
+      "title": "Stranded Deep",
+      "in_stock": true,
+      "original_price": 529,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co23lh.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Subnautica",
+      "title": "Subnautica",
+      "in_stock": true,
+      "original_price": 1800,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1iqw.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Subnautica: Below Zero",
+      "title": "Subnautica: Below Zero",
+      "in_stock": true,
+      "original_price": 1800,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39ve.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Supermarket Simulator",
+      "title": "Supermarket Simulator",
+      "in_stock": true,
+      "original_price": 880,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7np9.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "TT Isle of Man: Ride on the Edge 3",
+      "title": "TT Isle of Man: Ride on the Edge 3",
+      "in_stock": true,
+      "original_price": 2000,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vru.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Tavern Master",
+      "title": "Tavern Master",
+      "in_stock": true,
+      "original_price": 459,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dfr.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Tekken 7",
+      "title": "Tekken 7",
+      "in_stock": true,
+      "original_price": 989,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1w4f.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Tekken 8",
+      "title": "Tekken 8",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3499,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7lbb.webp"
+    },
+    {
+      "id": "Terraria",
+      "title": "Terraria",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 480,
+      "price": 99,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbo.webp"
+    },
+    {
+      "id": "The Binding of Isaac: Rebirth",
+      "title": "The Binding of Isaac: Rebirth",
+      "in_stock": true,
+      "original_price": 459,
+      "price": 199,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lbm.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "The Callisto Protocol",
+      "title": "The Callisto Protocol",
+      "in_stock": true,
+      "original_price": 2400,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ymo.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "The Evil Within",
+      "title": "The Evil Within",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1179,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wgs.webp"
+    },
+    {
+      "id": "The Evil Within 2",
+      "title": "The Evil Within 2",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wgu.webp"
+    },
+    {
+      "id": "The Forest",
+      "title": "The Forest",
+      "in_stock": true,
+      "original_price": 529,
+      "price": 199,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20x5.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "The Last of Us Part I",
+      "title": "The Last of Us Part I",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1gq.webp"
+    },
+    {
+      "id": "The Last of Us Part II",
+      "title": "The Last of Us Part II",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 3299,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ziw.webp"
+    },
+    {
+      "id": "The Long Dark",
+      "title": "The Long Dark",
+      "in_stock": true,
+      "original_price": 899,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vga.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "The Messenger",
+      "title": "The Messenger",
+      "in_stock": true,
+      "original_price": 880,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hr9.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "The Mortuary Assistant",
+      "title": "The Mortuary Assistant",
+      "in_stock": true,
+      "original_price": 569,
+      "price": 199,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53b6.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "The Witcher 3: Wild Hunt",
+      "title": "The Witcher 3: Wild Hunt",
+      "category": [
+        "pc",
+        "best-seller"
+      ],
+      "in_stock": true,
+      "original_price": 1699,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.webp"
+    },
+    {
+      "id": "The Witness",
+      "title": "The Witness",
+      "in_stock": true,
+      "original_price": 849,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hih.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Train Sim World 4",
+      "title": "Train Sim World 4",
+      "in_stock": true,
+      "original_price": 1600,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72sg.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Truck & Logistics Simulator",
+      "title": "Truck & Logistics Simulator",
+      "in_stock": true,
+      "original_price": 880,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72sk.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Undertale",
+      "title": "Undertale",
+      "in_stock": true,
+      "original_price": 369,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2855.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Valheim",
+      "title": "Valheim",
+      "in_stock": true,
+      "original_price": 1099,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2x61.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Vampire Survivors",
+      "title": "Vampire Survivors",
+      "in_stock": true,
+      "original_price": 249,
+      "price": 99,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4bzv.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Virtua Fighter 5: Revo",
+      "title": "Virtua Fighter 5: Revo",
+      "in_stock": true,
+      "original_price": 1499,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92db.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Visage",
+      "title": "Visage",
+      "in_stock": true,
+      "original_price": 759,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1h7d.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "What Remains of Edith Finch",
+      "title": "What Remains of Edith Finch",
+      "in_stock": true,
+      "original_price": 849,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbj.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Wreckfest",
+      "title": "Wreckfest",
+      "in_stock": true,
+      "original_price": 1139,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vof.webp",
+      "category": [
+        "pc"
+      ]
+    },
+    {
+      "id": "Zombie Army Trilogy",
+      "title": "Zombie Army Trilogy",
+      "in_stock": true,
+      "original_price": 929,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vgc.webp",
+      "category": [
+        "pc"
+      ]
+    }
+  ]
+}
