@@ -38,16 +38,17 @@ export default function OfferBanner() {
   if (!offerBanner) return null;
 
   return (
-    <div className="z-90 overflow-hidden bg-violet-500 min-h-20 flex-col md:flex-row w-full justify-evenly p-2 items-center text-2xl text-white font-bold flex relative group">
-      {/* Text section - hidden on mobile, hover-hide on desktop */}
-      <div className="block text-center w-1/2 group-hover:hidden md:group-hover:block">
-        <p className="md:text-4xl font-extrabold">DARK SALE IS LIVE</p>
-        <p className="md:text-2xl font-poppins">SALE ENDS IN</p>
+    <div className="z-90 overflow-hidden bg-violet-500 min-h-20 w-full justify-evenly p-2 items-center text-white font-bold flex flex-col md:flex-row relative group">
+
+      {/* Text section */}
+      <div className="text-center md:w-1/2">
+        <p className="text-2xl md:text-4xl font-extrabold">DARK SALE IS LIVE</p>
+        <p className="text-lg md:text-2xl font-poppins">SALE ENDS IN</p>
       </div>
 
-      {/* Timer section - always visible on mobile, hover-visible on desktop */}
-      <div className="hidden md:flex group-hover:flex flex-col items-center w-1/2">
-        <div className="flex gap-6 md:gap-8 md:text-4xl">
+      {/* Timer section */}
+      <div className="mt-2 md:mt-0 flex flex-col items-center md:w-1/2">
+        <div className="flex gap-6 md:gap-8 text-2xl md:text-4xl">
           <p className="text-amber-400">{timeLeft.days}</p>
           <p>{timeLeft.hours}</p>
           <p>{timeLeft.minutes}</p>
@@ -60,8 +61,6 @@ export default function OfferBanner() {
           <p>SEC</p>
         </div>
       </div>
-
-
     </div>
   );
 }
