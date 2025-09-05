@@ -4,13 +4,14 @@ import useGames from '../hooks/useGames';
 import Navbar from '../components/navbar';
 import Footer from "../components/Footer";
 import ReviewSlider from "../components/ReviewSlider";
+import GlobalLoader from "../components/GlobalLoader";
 
 export default function GamePage() {
   const navigate = useNavigate();
   const { id } = useParams();
   const { games, loading, error } = useGames();
 
-  if (loading) return <div className="p-6">Loading...</div>;
+  if (loading) return <GlobalLoader/>;
   if (error) return <div className="p-6 text-red-600">{error}</div>;
 
   const game = games.find((g) => String(g.id) === String(id));

@@ -1,6 +1,33 @@
 {
   "games": [
     {
+      "id": "Get Any 2 Games",
+      "title": "Get Any 2 Games",
+      "in_stock": true,
+      "original_price": 999,
+      "price": 299,
+      "image": "/offerImgs/Game2.png",
+      "category":["best-seller"]
+    },
+    {
+      "id": "Get Any 3 Games",
+      "title": "Get Any 3 Games",
+      "in_stock": true,
+      "original_price": 1499,
+      "price": 499,
+      "image": "/offerImgs/Game3.png",
+      "category":["best-seller"]
+    },
+    {
+      "id": "Get Any 4 Games",
+      "title": "Get Any 4 Games",
+      "in_stock": true,
+      "original_price": 1999,
+      "price": 699,
+      "image": "/offerImgs/Game4.png",
+      "category":["best-seller"]
+    },
+    {
       "id": "A Plague Tale: Innocence",
       "title": "A Plague Tale: Innocence",
       "in_stock": true,

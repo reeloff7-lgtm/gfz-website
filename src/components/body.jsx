@@ -4,11 +4,12 @@ import useGames from '../hooks/useGames';
 import CategorySection from './CategorySection';
 import Footer from './Footer';
 import ReviewSlider from './ReviewSlider';
+import GlobalLoader from './GlobalLoader';
 
 function body() {
   const { games, loading, error } = useGames();
 
-  if (loading) return <div className="p-6">Loading...</div>;
+  if (loading) return <GlobalLoader/>;
   if (error) return <div className="p-6 text-red-600">{error}</div>;
 
   const bestGames = games.filter((g) => g.category?.includes("best-seller"));
@@ -27,7 +28,7 @@ function body() {
         </div>
 
          <div className="p-6 space-y-10">
-          <CategorySection title="Best Sellers" games={bestGames} limit={6} />
+          <CategorySection title="Best Sellers" games={bestGames} limit={12} />
 
           <ReviewSlider/>
 

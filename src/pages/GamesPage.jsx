@@ -5,6 +5,7 @@ import GameGrid from "../components/GameGrid";
 import Pagination from "../components/Pagination";
 import Navbar from '../components/navbar';
 import Footer from "../components/Footer";
+import GlobalLoader from "../components/GlobalLoader";
 
 export default function GamesPage() {
   const { games, loading, error } = useGames();
@@ -24,7 +25,7 @@ export default function GamesPage() {
 
   // 🟢 Now safely return based on state
   if (loading) {
-    return <div className="p-6">Loading...</div>;
+    return <GlobalLoader/>;
   }
 
   if (error) {

@@ -30,11 +30,11 @@ function Navbar() {
   }, [query, games]);
 
   return (
-    <div className="relative">
+    <div className="relative flex flex-col">
       {/* SEARCH BOX */}
       <div
         className={`duration-500 h-full w-full flex justify-center items-center gap-5 bg-white absolute left-0 z-20 ${
-          showSearch ? "top-0" : "-top-[230px]"
+          showSearch ? "top-0" : "-top-[310px]"
         }`}
       >
         <div className="relative flex gap-10 items-center w-full p-4 md:w-1/2">

@@ -10,13 +10,16 @@ import BuyNow from "./pages/BuyNow";
 import Footer from './components/Footer';
 import Privacyy from './pages/Privacyy';
 import Faq from './pages/Faq';
+import OfferBanner from './components/OfferBanner';
 
 function App() {
 
   return (
     <>
 
+
       <GlobalLoader>
+        <OfferBanner/>
 
         <Routes>
 
