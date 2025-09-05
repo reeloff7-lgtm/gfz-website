@@ -33,7 +33,7 @@ function BuyNow() {
   // };
 
   const handleConfirm = () => {
-    const botUsername = "gfzStorebot"; // your bot username
+    const botUsername = "gfz_ai_bot"; // your bot username
     // Always use https://t.me instead of tg://
     const telegramUrl = `https://t.me/${botUsername}?start=${orderId}`;
     window.open(telegramUrl, "_blank");
@@ -71,5 +71,6 @@ function BuyNow() {
 }
 
 export default BuyNow;
+
 
 
