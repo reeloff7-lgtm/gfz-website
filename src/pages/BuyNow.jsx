@@ -24,20 +24,20 @@ function BuyNow() {
 
   const upiLink = `upi://pay?pa=${upiId}&pn=GameStore&am=${game.price}&cu=INR&tn=Order%20${orderId}`;
 
-  const handleConfirm = () => {
-    const message = `Hi! I’ve paid for "${game.title}" (INR ${game.price}).\n\nOrder ID: ${orderId}\n\nHere is my payment screenshot:`;
-    const whatsappUrl = `https://wa.me/${yourNumber}?text=${encodeURIComponent(
-      message
-    )}`;
-    window.open(whatsappUrl, "_blank");
-  };
-
   // const handleConfirm = () => {
-  //   const botUsername = "gfzStorebot"; // your bot username
-  //   // Always use https://t.me instead of tg://
-  //   const telegramUrl = `https://t.me/${botUsername}?start=${orderId}`;
-  //   window.open(telegramUrl, "_blank");
+  //   const message = `Hi! I’ve paid for "${game.title}" (INR ${game.price}).\n\nOrder ID: ${orderId}\n\nHere is my payment screenshot:`;
+  //   const whatsappUrl = `https://wa.me/${yourNumber}?text=${encodeURIComponent(
+  //     message
+  //   )}`;
+  //   window.open(whatsappUrl, "_blank");
   // };
+
+  const handleConfirm = () => {
+    const botUsername = "gfzStorebot"; // your bot username
+    // Always use https://t.me instead of tg://
+    const telegramUrl = `https://t.me/${botUsername}?start=${orderId}`;
+    window.open(telegramUrl, "_blank");
+  };
 
   return (
     <div className="flex flex-col items-center text-center justify-center min-h-screen bg-gray-50 p-6">
@@ -71,4 +71,5 @@ function BuyNow() {
 }
 
 export default BuyNow;
+
 
