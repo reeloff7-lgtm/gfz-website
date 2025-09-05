@@ -38,7 +38,7 @@ export default function OfferBanner() {
   if (!offerBanner) return null;
 
   return (
-    <div className="z-90 overflow-hidden bg-violet-500 h-20 flex-col md:flex-row w-full justify-evenly p-2 items-center text-2xl text-white font-bold flex relative group">
+    <div className="z-90 overflow-hidden bg-violet-500 min-h-20 flex-col md:flex-row w-full justify-evenly p-2 items-center text-2xl text-white font-bold flex relative group">
       {/* Text section - hidden on mobile, hover-hide on desktop */}
       <div className="block text-center w-1/2 group-hover:hidden md:group-hover:block">
         <p className="md:text-4xl font-extrabold">DARK SALE IS LIVE</p>
