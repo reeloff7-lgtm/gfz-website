@@ -34,7 +34,7 @@ export default function GamePage() {
 
         <div className="mt-4 grid md:grid-cols-2 gap-6">
 
-          <img src={game.image} alt={game.title} className=" h-[350px] md:h-[530px] rounded-xl m-auto md:m-0 md:self-end md:justify-self-end" />
+          <img src={game.image} alt={game.title} className=" h-[350px] md:h-[530px] rounded-xl m-auto md:m-0 md:self-start lg:self-end lg:justify-self-end" />
 
           <div className="flex gap-5 flex-col w-full">
 
@@ -56,24 +56,23 @@ export default function GamePage() {
               Buy Now
             </button>
             <div>
-    <h3>How to Purchase</h3>
-    <ol>
-        <li>Click the <strong>"Buy Now"</strong> button.</li>
-        <li>Pay the required amount by scanning the QR code with any UPI app (like Google Pay, PhonePe, Paytm, etc.).</li>
-        <li>After paying, click the <strong>"I Have Paid"</strong> button.</li>
-        <li>You will be redirected to our Telegram bot. Click the <strong>"Start"</strong> button in the chat.</li>
-        <li>Send the screenshot (SS) of your successful payment to the bot.</li>
-        <li>Join our main Telegram group using the link provided.</li>
-        <li>
-            An admin in the group will confirm your payment and process your order.
-            <br>
-            <strong>If you bought a Combo:</strong> Please mention the specific combo you paid for in the group chat.
-        </li>
-    </ol>
-</div>
-    
-      
-            
+              <h3 className="font-bold text-2xl p-4">How to Purchase</h3>
+              <ol className="list-decimal flex flex-col gap-2 px-4">
+                <li>Click the <strong>"Buy Now"</strong> button.</li>
+                <li>Pay the required amount by scanning the QR code with any UPI app (like Google Pay, PhonePe, Paytm, etc.).</li>
+                <li>After paying, click the <strong>"I Have Paid"</strong> button.</li>
+                <li>You will be redirected to our Telegram bot. Click the <strong>"Start"</strong> button in the chat.</li>
+                <li>Send the screenshot (SS) of your successful payment to the bot.</li>
+                <li>Join our main Telegram group using the link provided.</li>
+                <li>
+                  An admin in the group will confirm your payment and process your order.
+                  <br />
+                  <strong>If you bought a Combo:</strong> Please mention the specific combo you paid for in the group chat.
+                </li>
+              </ol>
+            </div>
+
+
           </div>
         </div>
       </div>
@@ -82,4 +81,3 @@ export default function GamePage() {
     </>
   );
 }
-
