@@ -28,6 +28,17 @@
       "category":["best-seller"]
     },
     {
+      "id": "Hollow Knight: Silksong",
+      "title": "Hollow Knight: Silksong",
+      "in_stock": true,
+      "original_price": 880,
+      "price": 349,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaend.webp",
+      "category": [
+        "pc","best-seller"
+      ]
+    },
+    {
       "id": "A Plague Tale: Innocence",
       "title": "A Plague Tale: Innocence",
       "in_stock": true,
