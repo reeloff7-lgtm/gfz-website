@@ -55,7 +55,25 @@ export default function GamePage() {
             >
               Buy Now
             </button>
-
+            <div>
+    <h3>How to Purchase</h3>
+    <ol>
+        <li>Click the <strong>"Buy Now"</strong> button.</li>
+        <li>Pay the required amount by scanning the QR code with any UPI app (like Google Pay, PhonePe, Paytm, etc.).</li>
+        <li>After paying, click the <strong>"I Have Paid"</strong> button.</li>
+        <li>You will be redirected to our Telegram bot. Click the <strong>"Start"</strong> button in the chat.</li>
+        <li>Send the screenshot (SS) of your successful payment to the bot.</li>
+        <li>Join our main Telegram group using the link provided.</li>
+        <li>
+            An admin in the group will confirm your payment and process your order.
+            <br>
+            <strong>If you bought a Combo:</strong> Please mention the specific combo you paid for in the group chat.
+        </li>
+    </ol>
+</div>
+    
+      
+            
           </div>
         </div>
       </div>
@@ -64,3 +82,4 @@ export default function GamePage() {
     </>
   );
 }
+
