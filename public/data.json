@@ -38,6 +38,17 @@
         "pc","best-seller"
       ]
     },
+     {
+      "id": "Clair Obscur: Expedition 33",
+      "title": "Clair Obscur: Expedition 33",
+      "in_stock": true,
+      "original_price": 2999,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gam.webp",
+      "category": [
+        "pc","best-seller"
+      ]
+    },
     {
       "id": "A Plague Tale: Innocence",
       "title": "A Plague Tale: Innocence",
