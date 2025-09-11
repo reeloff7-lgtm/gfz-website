@@ -2,7 +2,12 @@ import { useEffect, useState } from "react";
 
 export default function OfferBanner() {
   const [offerBanner, setOfferBanner] = useState(true);
-  const targetDate = new Date("2025-09-10T23:59:59").getTime();
+
+  // Always 24 hours in milliseconds
+  const COUNTDOWN_TIME = 24 * 60 * 60 * 1000;
+
+  // Save start time in state so it resets properly on rerender
+  const [startTime] = useState(Date.now());
 
   const [timeLeft, setTimeLeft] = useState({
     days: "00",
@@ -15,14 +20,9 @@ export default function OfferBanner() {
     if (!offerBanner) return;
 
     const interval = setInterval(() => {
-      const now = new Date().getTime();
-      const diff = targetDate - now;
-
-      if (diff <= 0) {
-        setOfferBanner(false);
-        clearInterval(interval);
-        return;
-      }
+      const now = Date.now();
+      const elapsed = (now - startTime) % COUNTDOWN_TIME; // loop every 24h
+      const diff = COUNTDOWN_TIME - elapsed;
 
       const days = String(Math.floor(diff / (1000 * 60 * 60 * 24))).padStart(2, "0");
       const hours = String(Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))).padStart(2, "0");
@@ -33,7 +33,7 @@ export default function OfferBanner() {
     }, 1000);
 
     return () => clearInterval(interval);
-  }, [targetDate, offerBanner]);
+  }, [offerBanner, startTime]);
 
   if (!offerBanner) return null;
 
