@@ -19,6 +19,15 @@
       "category":["best-seller"]
     },
     {
+      "id": "GTA V Online (EPIC ACCOUNT)",
+      "title": "GTA V Online (EPIC ACCOUNT)",
+      "in_stock": true,
+      "original_price": 2499,
+      "price": 399,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9751.webp",
+      "category":["best-seller"]
+    },
+    {
       "id": "Get Any 4 Games",
       "title": "Get Any 4 Games",
       "in_stock": true,
