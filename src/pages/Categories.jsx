@@ -8,7 +8,7 @@ function Categories() {
     <div className='h-screen'>
       <Navbar/>
 
-      <div className='grid md:grid-cols-3 lg:grid-cols-4 gap-10 justify-center items-center p-8 m-auto max-w-[50%] min-h-[90%]'>
+      <div className='flex gap-10 justify-center items-center p-8 m-auto md:max-w-[85%] min-h-[90%] flex-wrap'>
 
 
         {/* <Link to='/games'>
@@ -54,3 +54,4 @@ function Categories() {
 }
 
 export default Categories
+
