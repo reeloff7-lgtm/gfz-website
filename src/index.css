@@ -57,5 +57,9 @@ h1{
 } */
 
 .headLow li{
-    @apply font-bold duration-300 hover:text-black;
+    @apply font-bold duration-300 hover:text-white;
+}
+
+shadow-inner-custom {
+  box-shadow: inset 0 0 20px rgba(0,0,0,0.5);
 }

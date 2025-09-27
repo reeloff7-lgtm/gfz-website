@@ -5,6 +5,7 @@ import CategorySection from './CategorySection';
 import Footer from './Footer';
 import ReviewSlider from './ReviewSlider';
 import GlobalLoader from './GlobalLoader';
+import HorizontalReels from './HorizontalReels';
 
 function body() {
   const { games, loading, error } = useGames();
@@ -30,9 +31,12 @@ function body() {
          <div className="p-6 space-y-10">
           <CategorySection title="Best Sellers" games={bestGames} limit={12} />
 
-          <ReviewSlider/>
+          <HorizontalReels/>
 
           <CategorySection title="PC Games" games={pcGames} limit={6} />
+
+          <ReviewSlider/>
+
         </div>
 
 

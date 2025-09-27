@@ -33,11 +33,11 @@ function Navbar() {
     <div className="relative flex flex-col">
       {/* SEARCH BOX */}
       <div
-        className={`duration-500 h-full w-full flex justify-center items-center gap-5 bg-white absolute left-0 z-20 ${
+        className={`duration-500 h-full w-full flex justify-center items-center gap-5 bg-[#ffffff30] backdrop-blur-2xl absolute left-0 z-20 ${
           showSearch ? "top-0" : "-top-[310px]"
         }`}
       >
-        <div className="relative flex gap-10 items-center w-full p-4 md:w-1/2">
+        <div className=" text-black relative flex gap-10 items-center w-full p-4 md:w-1/2">
           <i className="fi fi-br-search cursor-pointer flex absolute right-20 top-1/2 translate-y-[-50%]"></i>
 
           {/* 🔍 Search input */}
@@ -46,7 +46,7 @@ function Navbar() {
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search games..."
-            className="border rounded p-2 w-full"
+            className="border rounded p-2 w-full outline-0 focus:border-white duration-200 bg-[#ffffff50]"
           />
 
           <i
@@ -100,13 +100,13 @@ function Navbar() {
       </div>
 
       {/* HeaderLower Part */}
-      <div className="headLow p-4 text-[#00000080]">
+    <div className="headLow p-4 text-[#ffffff80]">
         <ul className="flex gap-6 justify-center">
           <li>
             <Link to="/">HOME</Link>
           </li>
           <li>
-            <Link to="/games">CATEGORIES</Link>
+            <Link to="/categories">CATEGORIES</Link>
           </li>
           <li>
             <Link to="/faq">FAQ</Link>

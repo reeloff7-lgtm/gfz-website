@@ -11,7 +11,7 @@ export default function Pagination({ totalPages, currentPage, onPageChange }) {
             key={page}
             onClick={() => onPageChange(page)}
             className={`mx-1 px-3 py-1 rounded ${
-              isActive ? "bg-amber-500 text-white" : "bg-gray-200 hover:bg-gray-300"
+              isActive ? "bg-amber-500 text-black" : "bg-gray-700 hover:bg-amber-800 duration-300"
             }`}
           >
             {page}

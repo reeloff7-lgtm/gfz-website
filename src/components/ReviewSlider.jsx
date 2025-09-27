@@ -46,9 +46,9 @@ const reviews = [
 
 function ReviewCard({ review }) {
   return (
-    <div className="bg-zinc-100 rounded-2xl shadow-md p-6 h-full flex flex-col justify-between text-center min-h-[250px]">
+    <div className="bg-zinc-600 rounded-2xl shadow-md p-6 h-full flex flex-col justify-between text-center min-h-[250px]">
       <h3 className="text-lg font-semibold">{review.name}</h3>
-      <p className="text-gray-700 my-3">{review.review}</p>
+      <p className="text-gray-200 my-3">{review.review}</p>
       <div className="flex justify-center gap-1 mt-2">
         {[...Array(5)].map((_, i) => (
           <Star
@@ -82,7 +82,7 @@ export default function ReviewSlider() {
       >
         {reviews.map((r) => (
           <SwiperSlide key={r.id} className="flex justify-center">
-            <ReviewCard review={r} />
+            <ReviewCard review={r}/>
           </SwiperSlide>
         ))}
       </Swiper>

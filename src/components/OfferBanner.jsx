@@ -3,11 +3,7 @@ import { useEffect, useState } from "react";
 export default function OfferBanner() {
   const [offerBanner, setOfferBanner] = useState(true);
 
-  // Always 24 hours in milliseconds
-  const COUNTDOWN_TIME = 24 * 60 * 60 * 1000;
-
-  // Save start time in state so it resets properly on rerender
-  const [startTime] = useState(Date.now());
+  const COUNTDOWN_TIME = 24 * 60 * 60 * 1000; // 24h in ms
 
   const [timeLeft, setTimeLeft] = useState({
     days: "00",
@@ -19,10 +15,23 @@ export default function OfferBanner() {
   useEffect(() => {
     if (!offerBanner) return;
 
+    // Get or set end time in localStorage
+    let storedEndTime = localStorage.getItem("offerEndTime");
+    if (!storedEndTime || Date.now() > parseInt(storedEndTime)) {
+      storedEndTime = Date.now() + COUNTDOWN_TIME;
+      localStorage.setItem("offerEndTime", storedEndTime);
+    }
+
     const interval = setInterval(() => {
       const now = Date.now();
-      const elapsed = (now - startTime) % COUNTDOWN_TIME; // loop every 24h
-      const diff = COUNTDOWN_TIME - elapsed;
+      let diff = parseInt(storedEndTime) - now;
+
+      if (diff <= 0) {
+        // Reset new 24h cycle
+        storedEndTime = Date.now() + COUNTDOWN_TIME;
+        localStorage.setItem("offerEndTime", storedEndTime);
+        diff = COUNTDOWN_TIME;
+      }
 
       const days = String(Math.floor(diff / (1000 * 60 * 60 * 24))).padStart(2, "0");
       const hours = String(Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))).padStart(2, "0");
@@ -33,7 +42,7 @@ export default function OfferBanner() {
     }, 1000);
 
     return () => clearInterval(interval);
-  }, [offerBanner, startTime]);
+  }, [offerBanner]);
 
   if (!offerBanner) return null;
 
@@ -50,7 +59,7 @@ export default function OfferBanner() {
       <div className="mt-2 md:mt-0 flex flex-col items-center md:w-1/2">
         <div className="flex gap-6 md:gap-8 text-2xl md:text-4xl">
           <p className="text-amber-400">{timeLeft.days}</p>
-          <p>{timeLeft.hours}</p>
+          <p className="">{timeLeft.hours}</p>
           <p>{timeLeft.minutes}</p>
           <p>{timeLeft.seconds}</p>
         </div>
