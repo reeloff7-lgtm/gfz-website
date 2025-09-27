@@ -10,7 +10,7 @@ function BuyNow() {
   const [game, setGame] = useState(null);
   const [qrSize, setQrSize] = useState(200); // ✅ default for small screens
 
-  const upiId = `8544890833@fam`;
+  const upiId = `parikshitpushkar@slc`;
   const yourNumber = "#";
 
   const queryParams = new URLSearchParams(location.search);
@@ -66,7 +66,7 @@ function BuyNow() {
   const upiLink = `upi://pay?pa=${upiId}&pn=GameStore&am=${getPrice()}&cu=INR&tn=Order%20${orderId}`;
 
   const handleConfirm = () => {
-    const botUsername = "gfzStorebot";
+    const botUsername = "gfz_ai_bot";
     const telegramUrl = `https://t.me/${botUsername}?start=${orderId}`;
     window.open(telegramUrl, "_blank");
   };
@@ -119,3 +119,4 @@ function BuyNow() {
 }
 
 export default BuyNow;
+
